@@ -10,4 +10,4 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
 
 | Date | Topic |
 | --- | --- |
-| To be defined | [Course kick-off] [[PDF](https://github.com/jonathandumas/ENVT3065-sustainability-and-challenges/pdf/ENVT_kick_off.pdf)]
+| To be defined | [Course kick-off] [[PDF](https://github.com/jonathandumas/ENVT3065-sustainability-and-challenges/blob/main/pdf/ENVT_kick_off.pdf)]
