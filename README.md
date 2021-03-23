@@ -27,3 +27,8 @@ WARNING: the links of the pdf of the presentations are not yet available. COMING
 | To be defined |<br>Lecture 11: part 1 (presentation) [TO BE DEFINED]()<br>Lecture 11: part 2 (activity) TO BE DEFINED<br>|
 | To be defined |<br>Lecture 12: part 1 (activity) Build your own collage of ENVT3065 - sustainability-and-challenges<br>Lecture 11: part 2 (activity) Peer grading of the collages<br>|
 
+## Evaluation
+
+- activity "Build your own collage of ENVT3065 - sustainability-and-challenges" [50%]
+- participation to avtivities [25%]
+- participation to collages [25%]
