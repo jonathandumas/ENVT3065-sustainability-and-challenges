@@ -26,7 +26,7 @@ WARNING: the links of the pdf of the presentations are not yet available. COMING
 | To be defined |<br>Lecture 9: part 1 (presentation) [You me & climate]()<br>Lecture 9: part 2 (activity) Q&A, debate on the presentation<br>Lecture 9: part 3 (activity) analyze the report [Belgium Energy Outlook 2050](https://www.fabi.be/transition-energetique)|
 | To be defined |<br>Lecture 10: part 1 (activity) [Mobility collage](https://fresquedelamobilite.org/)<br>Lecture 10: part 2 (activity) Image new cards<br>|
 | To be defined |<br>Lecture 11: part 1 (presentation) [TO BE DEFINED]() B. Cornélusse<br>Lecture 11: part 2 (activity) TO BE DEFINED<br>|
-| To be defined |<br>Lecture 12: part 1 (activity) Build your own collage of ENVT3065 - sustainability-and-challenges<br>Lecture 11: part 2 (activity) Peer grading of the collages<br>|
+| To be defined |<br>Lecture 12: part 1 (activity) Build your own collage of ENVT3065 - sustainability-and-challenges<br>Lecture 12: part 2 (activity) Peer grading of the collages<br>|
 
 ## Evaluation
 
