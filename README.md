@@ -10,5 +10,7 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
 
 | Date | Topic |
 | --- | --- |
-| To be defined |<br>Lecture 0: [kick-off](https://github.com/jonathandumas/ENVT3065-sustainability-and-challenges/blob/main/pdf/ENVT_kick_off.pdf)<br>Lecture 1: part 1 ice breaker<br>Lecture 1: part 2 [Sustainability challenges]()<br> Lecture 1: part 3 Q&A, debate<br>|
-| To be defined |<br>Lecture 2: part 1 [Climate collage](https://climatecollage.org/)<br>Lecture 2: part 2 image new cards<br>|
+| To be defined |<br>Lecture 0: [kick-off](https://github.com/jonathandumas/ENVT3065-sustainability-and-challenges/blob/main/pdf/ENVT_kick_off.pdf)<br>Lecture 1: part 1 (activity) Ice breaker<br>Lecture 1: part 2 [Sustainability challenges presentation]()<br> Lecture 1: part 3 (activity) Q&A, debate<br>|
+| To be defined |<br>Lecture 2: part 1 [Climate collage activity](https://climatecollage.org/)<br>Lecture 2: part 2 Image new cards activity<br>|
+| To be defined |<br>Lecture 3: part 1 [Climate change presentation](https://climatecollage.org/)<br>Lecture 3: part 2 (activity) Q&A, debate Or discuss a summary of an IPCC repor<br>|
+
