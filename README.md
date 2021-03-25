@@ -9,7 +9,7 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
 
 WARNING: the links of the pdf of the presentations are not yet available. COMING SOON :)
 
-[TEASER COMING SOON :)]()
+[TEASER](https://youtu.be/QM5ldiW6hAM)
 
 ## Agenda
 
