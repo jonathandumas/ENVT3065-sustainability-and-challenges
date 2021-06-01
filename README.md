@@ -4,8 +4,9 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
 
 - Instructors:
   * [Jonathan Dumas](https://jonathandumas.github.io/jdumas.github.io/): PhD candidate and teaching assistant
-  * [Xavier Fettweis](http://climactes.org/xavier-fettweis-uliege/): Associate professor
-  * [Bertrand Cornélusse](https://bcornelusse.github.io/): Research associate FNRS and climatologist
+  * [Xavier Fettweis](http://climactes.org/xavier-fettweis-uliege/): Research associate FNRS and climatologist
+  * [Bertrand Cornélusse](https://bcornelusse.github.io/): Associate professor
+  * [Sylvain Quoilin TO BE CONFIRMED](http://www.squoilin.eu/): Research associate FNRS
 - When: October - December 2021, Tuesday 8:00 AM - 12 AM (to be confirmed)
 - Classroom: Lectures are live and will be recorded (if possible) and available on [Youtube]().
 - Agenda: there may be somes changes.
