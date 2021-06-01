@@ -2,8 +2,9 @@
 
 Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - December 2021.
 
-- Instructors: [Jonathan Dumas](https://jonathandumas.github.io/jdumas.github.io/), [Xavier Fettweis](http://climactes.org/xavier-fettweis-uliege/), [Bertrand Cornélusse](https://bcornelusse.github.io/)
-- When: October - December 2021, Friday 8:00 AM - 12 AM (to be confirmed)
+- Instructors: 
+--[Jonathan Dumas](https://jonathandumas.github.io/jdumas.github.io/), [Xavier Fettweis](http://climactes.org/xavier-fettweis-uliege/), [Bertrand Cornélusse](https://bcornelusse.github.io/)
+- When: October - December 2021, Tuesday 8:00 AM - 12 AM (to be confirmed)
 - Classroom: Lectures are live and will be recorded (if possible) and available on [Youtube]().
 - Agenda: there may be somes changes.
 
