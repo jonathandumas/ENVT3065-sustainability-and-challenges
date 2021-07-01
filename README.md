@@ -20,7 +20,7 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
 
 | Date | Topic |
 | --- | --- |
-| To be defined |<br>Lecture 0: [kick-off](https://github.com/jonathandumas/ENVT3065-sustainability-and-challenges/blob/main/pdf/ENVT_kick_off.pdf)<br>Lecture 1: part 1 (activity) Ice breaker<br>Lecture 1: part 2 (presentation) [Sustainability challenges]()<br> Lecture 1: part 3 (activity) Q&A, debate or read and analyze a scientific article on this topic<br>|
+| To be defined |<br>Lecture 0: [kick-off](https://github.com/jonathandumas/ENVT3065-sustainability-and-challenges/blob/main/pdf/ENVT_kick_off.pdf)<br>Lecture 1: part 1 (activity) Ice breaker<br>Lecture 1: part 2 (presentation) [Sustainability challenges](ENVT_lecture_1.pdf)<br> Lecture 1: part 3 (activity) Q&A, debate or read and analyze a scientific article on this topic such as [Planetary boundaries: Guiding human development on a changing planet](https://science.sciencemag.org/content/347/6223/1259855)<br>|
 | To be defined |<br>Lecture 2: part 1 (activity) [Climate collage](https://climatecollage.org/)<br>Lecture 2: part 2 (activity) Image new cards<br>|
 | To be defined |<br>Lecture 3: part 1 (presentation) [Climate change](https://climatecollage.org/) by an expert<br>Lecture 3: part 2 (activity) Q&A and debate Or discuss a summary of an [IPCC report](https://www.ipcc.ch/reports/)<br>|
 | To be defined |<br>Lecture 4: part 1 (presentation) [Climate change and psychology]() by an expert<br> Lecture 4: part 2 (presentation) [Interactions between climate, economy & energy]() or (activity) dicuss the video [« Modéliser l'avenir de l'humanité - Heu?reka »](https://youtu.be/nAO21ec1lqc) <br>|
