@@ -3,7 +3,7 @@
 Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - December 2021.
 
 - Instructors:
-  * [Jonathan Dumas](https://jonathandumas.github.io/jdumas.github.io/): PhD candidate and teaching assistant
+  * [Jonathan Dumas](https://jonathandumas.github.io/jdumas.github.io/): Ph.D. candidate and teaching assistant
   * [Xavier Fettweis](http://climactes.org/xavier-fettweis-uliege/): Research associate FNRS and climatologist
   * [Bertrand Cornélusse](https://bcornelusse.github.io/): Associate professor
   * [Sylvain Quoilin](http://www.squoilin.eu/): Research associate FNRS (to be confirmed)
@@ -11,8 +11,8 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
   * [François Rigo](https://www.linkedin.com/in/fran%C3%A7ois-rigo-82427ba5/?originalSubdomain=be): FNRS research fellow (to be confirmed)
   * [Oriane Sarrasin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1075129&LanCode=37): Lecturer at the University of Lausanne (to be confirmed)
 - When: October - December 2021, Tuesday 8:00 AM - 12 AM (to be confirmed)
-- Classroom: Lectures are live (prsence is mandatory) and will be recorded (if possible) and available on [Youtube]().
-- Agenda: there may be somes changes.
+- Classroom: Lectures are live (presence is mandatory) and will be recorded (if possible) and available on [Youtube]().
+- Agenda: there may be some changes.
 
 [VIDEO TEASER !](https://youtu.be/QM5ldiW6hAM)
 
@@ -35,6 +35,6 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
 
 ## Evaluation
 
-- activity "Build your own collage of ENVT3065 - sustainability-and-challenges" [50%]
-- participation to avtivities [25%]
+- activity "Build your collage of ENVT3065 - sustainability-and-challenges" [50%]
+- participation to activities [25%]
 - participation to collages [25%]
