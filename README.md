@@ -2,6 +2,11 @@
 
 Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - December 2021.
 
+
+![fake news](https://github.com/jonathandumas/ENVT3065-sustainability-and-challenges/blob/e710c66fc5d5ab90fb14287c226128c91771c948/figures/lecture-0/fake_news.png)
+
+## Instructors & speakers
+
 - Instructors:
   * [Jonathan Dumas](https://jonathandumas.github.io/jdumas.github.io/): Ph.D. candidate and teaching assistant
   * [Xavier Fettweis](http://climactes.org/xavier-fettweis-uliege/): Research associate FNRS and climatologist
@@ -9,7 +14,11 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
   * [Sylvain Quoilin](http://www.squoilin.eu/): Research associate FNRS (to be confirmed)
 - Invited speakers:
   * [François Rigo](https://www.linkedin.com/in/fran%C3%A7ois-rigo-82427ba5/?originalSubdomain=be): FNRS research fellow (to be confirmed)
+  * [Antoine Dubois](https://people.montefiore.uliege.be/adubois/): FNRS research fellow 
   * [Oriane Sarrasin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1075129&LanCode=37): Lecturer at the University of Lausanne (to be confirmed)
+
+## Organization
+
 - When: October - December 2021, Tuesday 8:00 AM - 12 AM (to be confirmed)
 - Classroom: Lectures are live (presence is mandatory) and will be recorded (if possible) and available on [Youtube]().
 - Agenda: there may be some changes.
