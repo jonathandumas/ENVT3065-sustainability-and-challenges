@@ -34,6 +34,10 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
 | To be defined |<br>Lecture 12 alternative1: part 1 (activity) Build your own collage of ENVT3065 - sustainability-and-challenges [J. DUMAS]<br>Lecture 12 alternative1: part 2 (activity) Peer grading of the collages [J. DUMAS]<br>|
 | To be defined |<br>Lecture 12 alternative2: part 1 (activity) work on a technical report in groups of 2-3 [J. DUMAS]<br>|
 
+## Course map
+
+![course map](https://github.com/jonathandumas/ENVT3065-sustainability-and-challenges/blob/5a16b50e3cda8bfdef6b1cfd5f0a0f4ce837e199/figures/envt3065_map.jpg)
+
 ## Evaluation
 
 - activity "Build your collage of ENVT3065 - sustainability-and-challenges" [50%] (TO BE CONFIRMED) or analyze and present a technical report
