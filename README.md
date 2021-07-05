@@ -2,6 +2,7 @@
 
 Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - December 2021.
 
+![climate skeptic](https://github.com/jonathandumas/ENVT3065-sustainability-and-challenges/blob/abab692b36575cc64c464a56c0aaa9572283beb2/figures/climatosceptic.jpeg)
 
 ![fake news](https://github.com/jonathandumas/ENVT3065-sustainability-and-challenges/blob/e710c66fc5d5ab90fb14287c226128c91771c948/figures/lecture-0/fake_news.png)
 
