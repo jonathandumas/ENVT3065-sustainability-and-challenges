@@ -52,5 +52,5 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
 ## Evaluation
 
 - activity "Build your collage of ENVT3065 - sustainability-and-challenges" [50%] (TO BE CONFIRMED) or analyze and present a technical report
-- participation to activities [25%]
+- participation in activities [25%]
 - participation to collages [25%]
