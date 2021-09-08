@@ -20,7 +20,7 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
 
 ## Organization
 
-- When: October - December 2021, Tuesday 8:30 AM - 12:30 AM (to be confirmed)
+- When: October - December 2021, Tuesday 09:00 AM - 12:30 AM (to be confirmed)
 - Classroom: Lectures are live at B28 R.75 (presence is mandatory) and will be recorded (if possible) and available on [Youtube]().
 - Agenda: there may be some changes.
 
