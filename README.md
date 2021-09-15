@@ -24,9 +24,9 @@ This course is available for all master students of the Applied Science Faculty 
 
 ## Organization
 
-- When: October - December 2021, Tuesday 09:00 AM - 12:30 AM (to be confirmed)
-- Classroom: Lectures are live at B28 R.75 (presence is mandatory) and will be recorded (if possible) and available on [Youtube]().
-- Agenda: there may be some changes.
+- When: October - December 2021, Tuesday 09:00 AM - 12:30 AM (to be confirmed) 
+- Classroom: Lectures are live at B28 R.75 (presence is mandatory) and will be recorded (if possible) and available on [Youtube](https://youtube.com/playlist?list=PLmcrzl8L5u9dsAJuI3fala15fdq3D6NFn).
+- Agenda: there may be some changes to both satisfy the students of the Applied Science and Science faculties.-> Students registered will be contacted if there is any change of agenda. 
 
 [VIDEO TEASER !](https://youtu.be/QM5ldiW6hAM)
 
