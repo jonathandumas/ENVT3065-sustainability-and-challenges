@@ -6,7 +6,7 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
 
 This course is available for all master students of the Applied Science Faculty and the Science Faculty. Contact me directly if you want to follow it at: jdumas@uliege.be
 
-WARNING: due to problems of agendas between the students of the applied science and science faculties, there are two slots:  Tuesday 09:00 AM - 12:30 AM and Friday 13:45 - 17:15. We will discuss if we keep one or both when all the students know their agenda.
+WARNING: due to problems of agendas between the students of the applied science and science faculties, there are two slots:  Tuesday 09:00 AM - 12:30 AM (B28 R.75) and Friday 13:45 - 17:15 (B28 R21). We will discuss if we keep one or both when all the students know their agenda.
 
 [doodle](https://doodle.com/poll/rbnurtw5c9sszkzi?utm_source=poll&utm_medium=link) to register for the second lecture
 
@@ -28,7 +28,7 @@ WARNING: due to problems of agendas between the students of the applied science 
 
 ## Organization
 
-- When: October - December 2021 -> due to problems of agendas between the students of the applied science and science faculties, there are two slots:  Tuesday 09:00 AM - 12:30 AM and Friday 13:45 - 17:15. We will discuss if we keep one or both when all the students know their agenda.
+- When: October - December 2021 -> due to problems of agendas between the students of the applied science and science faculties, there are two slots:  Tuesday 09:00 AM - 12:30 AM (B28 R.75) and Friday 13:45 - 17:15 (B28 R21). We will discuss if we keep one or both when all the students know their agenda.
 - Classroom: Lectures are live at B28 R.75 (presence is mandatory) and will be recorded (if possible) and available on [Youtube](https://youtube.com/playlist?list=PLmcrzl8L5u9dsAJuI3fala15fdq3D6NFn).
 - Agenda: there may be some changes to both satisfy the students of the Applied Science and Science faculties.-> Students registered will be contacted if there is any change of agenda. 
 
