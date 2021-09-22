@@ -59,7 +59,8 @@ WARNING: due to problems of agendas between the students of the applied science 
 
 ## Evaluation
 
-- activity "Build your collage of ENVT3065 - sustainability-and-challenges" (TO BE CONFIRMED) or analyze and present a technical report [25%]
+- assignment 1: *Should we close Belgian nuclear power plants ... to open gas power plants?* Analyze and discuss pros and cons in a report (max 1 page) and present it (1 min of presentation). The presentations will be conducted during Lecture 5. [10%]
+- assignment 2: to be defined. [10%]
+- final assignment: pick a tool to teach sustainability (climate or digital collage, myC02, a conference on the carbon footprint, ...) and analyze it, its pros and cons, etc. Write a report (5 pages max) and make a presentation of the key points (5 min) [30%]
 - participation in activities [25%]
 - participation to collages [25%]
-- MCQ at the end of the course [25%]
