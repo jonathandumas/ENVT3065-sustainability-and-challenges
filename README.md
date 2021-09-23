@@ -6,9 +6,9 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
 
 This course is available for all master students of the Applied Science Faculty and the Science Faculty. Contact me directly if you want to follow it at: jdumas@uliege.be
 
-WARNING: due to problems of agendas between the students of the applied science and science faculties, there are two slots:  Tuesday 09:00 AM - 12:30 AM (B28 R.75) and Friday 13:45 - 17:15 (B28 R21). We will discuss if we keep one or both when all the students know their agenda.
+WARNING: due to problems of agendas between the students of the applied science and science faculties, there are two slots:  Tuesday 09:00 AM - 12:30 AM (B28 R.75) and Friday 13:45 - 17:15 (B28 R21). You will be informed of when each lecture is performed. 
 
-[doodle](https://doodle.com/poll/rbnurtw5c9sszkzi?utm_source=poll&utm_medium=link) to register for the second lecture
+[doodle](https://doodle.com/poll/rbnurtw5c9sszkzi?utm_source=poll&utm_medium=link) to register for the second lecture (climate collage)
 
 ![climate skeptic](https://github.com/jonathandumas/ENVT3065-sustainability-and-challenges/blob/abab692b36575cc64c464a56c0aaa9572283beb2/figures/climatosceptic.jpeg)
 
@@ -65,7 +65,7 @@ WARNING: due to problems of agendas between the students of the applied science 
 - participation in activities [25%]
 - participation to collages [25%]
 
-## References to start dig the topic :)
+## References to start to dig the topic :)
 * https://plateforme-wallonne-giec.be/lettre/
 * [IPCC reports](https://www.ipcc.ch/)
 * [Rapports de The Shift Project](https://theshiftproject.org/category/publications/rapports/)
