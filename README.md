@@ -64,3 +64,12 @@ WARNING: due to problems of agendas between the students of the applied science 
 - final assignment: pick a tool to teach sustainability (climate or digital collage, myC02, a conference on the carbon footprint, ...) and analyze it, its pros and cons, etc. Write a report (5 pages max) and make a presentation of the key points (5 min) [30%]
 - participation in activities [25%]
 - participation to collages [25%]
+
+## References to start dig the topic :)
+* https://plateforme-wallonne-giec.be/lettre/
+* [IPCC reports](https://www.ipcc.ch/)
+* [Rapports de The Shift Project](https://theshiftproject.org/category/publications/rapports/)
+* https://www.unep.org/interactive/emissions-gap-report/2020/#
+* https://www.iea.org/reports/net-zero-by-2050
+* [Energie et changement climatique, cours de J-M Jancovici aux Mines de Paris](https://youtube.com/playlist?list=PLMDQXkItOZ4LPwWJkVQf_PWnYHfC5xGFO)
+
