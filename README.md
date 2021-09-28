@@ -23,7 +23,7 @@ WARNING: due to problems of agendas between the students of the applied science 
   * [François Rigo](https://www.linkedin.com/in/fran%C3%A7ois-rigo-82427ba5/?originalSubdomain=be): FNRS research fellow (to be confirmed)
   * [Antoine Dubois](https://people.montefiore.uliege.be/adubois/): FNRS research fellow 
   * [Oriane Sarrasin](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1075129&LanCode=37): Lecturer at the University of Lausanne (to be confirmed)
-- Climate collage facilitator:
+- Climate collage facilitators:
   * [Antoine Dubois](https://people.montefiore.uliege.be/adubois/): FNRS research fellow 
   * [Sarah Robinet](https://www.linkedin.com/in/sarah-robinet-geologist/?originalSubdomain=be): FNRS research fellow 
   * [Eva Joskin](https://www.linkedin.com/in/eva-joskin-383595177/): research engineer 
