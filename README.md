@@ -8,8 +8,6 @@ This course is available for all master students of the Applied Science Faculty 
 
 WARNING: due to problems of agendas between the students of the applied science and science faculties, there are two slots:  Tuesday 09:00 AM - 12:30 AM (B28 R.75) and Friday 13:45 - 17:15 (B28 R21). You will be informed of when each lecture is performed. 
 
-[doodle](https://doodle.com/poll/rbnurtw5c9sszkzi?utm_source=poll&utm_medium=link) to register for the second lecture (climate collage)
-
 ![climate skeptic](https://github.com/jonathandumas/ENVT3065-sustainability-and-challenges/blob/abab692b36575cc64c464a56c0aaa9572283beb2/figures/climatosceptic.jpeg)
 
 ![fake news](https://github.com/jonathandumas/ENVT3065-sustainability-and-challenges/blob/e710c66fc5d5ab90fb14287c226128c91771c948/figures/lecture-0/fake_news.png)
