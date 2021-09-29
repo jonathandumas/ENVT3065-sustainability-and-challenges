@@ -4,7 +4,7 @@ Lectures for ENVT3065 - sustainability-and-challenges, ULiège, October - Decemb
 
 ## Registration to the course
 
-This course is available for all master students of the Applied Science Faculty and the Science Faculty. Contact me directly if you want to follow it at: jdumas@uliege.be
+This course is available for all master students of the Applied Science Faculty and the Science Faculty. Contact me directly (jdumas@uliege.be) if you want to register.
 
 WARNING: due to problems of agendas between the students of the applied science and science faculties, there are two slots:  Tuesday 09:00 AM - 12:30 AM (B28 R.75) and Friday 13:45 - 17:15 (B28 R21). You will be informed of when each lecture is performed. 
 
@@ -82,3 +82,7 @@ Sustainability developpement:
 * The Shift Project is a French think tank advocating the shift to a post-carbon economy - [Reports on various topics linked to sustainability](https://theshiftproject.org/category/publications/rapports/), French, last accessed on 29/09/2021
 * Every year, the Emissions Gap Report signals the difference between where greenhouse emissions are predicted to be in 2030 and where they should be to avoid the worst impacts of climate change - [Emissions Gap Report 2020](https://www.unep.org/interactive/emissions-gap-report/2020/#), English, last accessed on 29/09/2021
 * The International Energy Agency (IEA) is committed to shaping a secure and sustainable energy future for all - [Net Zero by 2050 A Roadmap for the Global Energy Sector](https://www.iea.org/reports/net-zero-by-2050), English, last accessed on 29/09/2021
+
+Energy:
+* This publication presents the simplified energy balance sheets for 2018, key indicators and time series of key elements of energy balances and statistics for recent years as well as energy flow charts for year 2018 - [Energy balance sheets 2020 Eurostat](https://op.europa.eu/en/publication-detail/-/publication/d0bccffc-ca2f-11ea-adf7-01aa75ed71a1), English, last accessed on 29/09/2021
+* This publication presents the "EU Reference Scenario 2020", which projects the impact of macro-economic, fuel price and technology trends and policies on the evolution of the EU energy system, on transport, and on their greenhouse gas (GHG) emissions. [EU reference scenario 2020 Energy, transport and GHG emissions : trends to 2050](https://op.europa.eu/en/publication-detail/-/publication/96c2ca82-e85e-11eb-93a8-01aa75ed71a1), English, last accessed on 29/09/2021
