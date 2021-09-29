@@ -70,19 +70,23 @@ WARNING: due to problems of agendas between the students of the applied science 
 ## References to start to dig the topic :)
 
 Climate Change:
-* IPCC - Intergovernmental Panel on Climate Change in a few key points - [Rapport du GIEC : rappel des points clés](https://www.carbone4.com/rapport-giec-points-cles), French, last accessed on 29/09/2021
-* IPCC sixth Assessment Report (AR6) - [Summary for Policymakers and Technical Summary](https://www.ipcc.ch/report/ar6/wg1/#SPM), English, last accessed on 29/09/2021
-* IPCC - [all reports](https://www.ipcc.ch/), English, last accessed on 29/09/2021
-* Le Réveilleur - [Comprendre le GIEC et ses rapports](https://youtu.be/C_UTlTiVQ_0), French, last accessed on 29/09/2021
-* Bon Pote - [Synthèse et analyse du nouveau rapport du GIEC](https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/), French, last accessed on 29/09/2021
-* La Plateforme wallonne pour le GIEC - [Lettres d'information](https://plateforme-wallonne-giec.be/lettre/), French, last accessed on 29/09/2021
-* Energie et changement climatique - [Cours de J-M Jancovici aux Mines de Paris](https://youtube.com/playlist?list=PLMDQXkItOZ4LPwWJkVQf_PWnYHfC5xGFO), French, last accessed on 29/09/2021
+* IPCC - Intergovernmental Panel on Climate Change in a few key points. [Rapport du GIEC : rappel des points clés](https://www.carbone4.com/rapport-giec-points-cles), French, last accessed on 29/09/2021
+* IPCC sixth Assessment Report (AR6). [Summary for Policymakers and Technical Summary](https://www.ipcc.ch/report/ar6/wg1/#SPM), English, last accessed on 29/09/2021
+* IPCC. [all reports](https://www.ipcc.ch/), English, last accessed on 29/09/2021
+* Le Réveilleur. [Comprendre le GIEC et ses rapports](https://youtu.be/C_UTlTiVQ_0), French, last accessed on 29/09/2021
+* Bon Pote. [Synthèse et analyse du nouveau rapport du GIEC](https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/), French, last accessed on 29/09/2021
+* La Plateforme wallonne pour le GIEC. [Lettres d'information](https://plateforme-wallonne-giec.be/lettre/), French, last accessed on 29/09/2021
+* Energie et changement climatique. [Cours de J-M Jancovici aux Mines de Paris](https://youtube.com/playlist?list=PLMDQXkItOZ4LPwWJkVQf_PWnYHfC5xGFO), French, last accessed on 29/09/2021
 
 Sustainability developpement:
-* The Shift Project is a French think tank advocating the shift to a post-carbon economy - [Reports on various topics linked to sustainability](https://theshiftproject.org/category/publications/rapports/), French, last accessed on 29/09/2021
-* Every year, the Emissions Gap Report signals the difference between where greenhouse emissions are predicted to be in 2030 and where they should be to avoid the worst impacts of climate change - [Emissions Gap Report 2020](https://www.unep.org/interactive/emissions-gap-report/2020/#), English, last accessed on 29/09/2021
-* The International Energy Agency (IEA) is committed to shaping a secure and sustainable energy future for all - [Net Zero by 2050 A Roadmap for the Global Energy Sector](https://www.iea.org/reports/net-zero-by-2050), English, last accessed on 29/09/2021
+* The Shift Project is a French think tank advocating the shift to a post-carbon economy. [Reports on various topics linked to sustainability](https://theshiftproject.org/category/publications/rapports/), French, last accessed on 29/09/2021
+* Every year, the Emissions Gap Report signals the difference between where greenhouse emissions are predicted to be in 2030 and where they should be to avoid the worst impacts of climate change. [Emissions Gap Report 2020](https://www.unep.org/interactive/emissions-gap-report/2020/#), English, last accessed on 29/09/2021
+* The International Energy Agency (IEA) is committed to shaping a secure and sustainable energy future for all. [Net Zero by 2050 A Roadmap for the Global Energy Sector](https://www.iea.org/reports/net-zero-by-2050), English, last accessed on 29/09/2021
 
 Energy:
-* This publication presents the simplified energy balance sheets for 2018, key indicators and time series of key elements of energy balances and statistics for recent years as well as energy flow charts for year 2018 - [Energy balance sheets 2020 Eurostat](https://op.europa.eu/en/publication-detail/-/publication/d0bccffc-ca2f-11ea-adf7-01aa75ed71a1), English, last accessed on 29/09/2021
+* This publication presents the simplified energy balance sheets for 2018, key indicators and time series of key elements of energy balances and statistics for recent years as well as energy flow charts for year 2018. [Energy balance sheets 2020 Eurostat](https://op.europa.eu/en/publication-detail/-/publication/d0bccffc-ca2f-11ea-adf7-01aa75ed71a1), English, last accessed on 29/09/2021
 * This publication presents the "EU Reference Scenario 2020", which projects the impact of macro-economic, fuel price and technology trends and policies on the evolution of the EU energy system, on transport, and on their greenhouse gas (GHG) emissions. [EU reference scenario 2020 Energy, transport and GHG emissions : trends to 2050](https://op.europa.eu/en/publication-detail/-/publication/96c2ca82-e85e-11eb-93a8-01aa75ed71a1), English, last accessed on 29/09/2021
+
+Belgian energy system transition:
+* The EnergyScope Typical Days open source model, which optimises both the investment and the operation strategy of a complete energy system for a target year, is used to analyse the Belgian energy system in 2035 for different carbon emission targets, and accounting for electricity, heat, and mobility. [Belgian Energy Transition: What Are the Options?](https://www.mdpi.com/610564), English, last accessed on 29/09/2021
+* Les perspectives énergétiques du [Bureau Fédéral du Plan](https://www.plan.be/aboutus/institution_desc.php?lang=fr) décrivent l’évolution à politique inchangée du système énergétique Belge jusqu'en 2050. L'analyse de ces perspectives permet d’évaluer, au niveau belge, la nécessité ou non d'adopter et l’ampleur des politiques et mesures supplémentaires compte tenu du cadre européen 2030 pour le Climat et l'Énergie et de la transition vers une société bas carbone en 2050. [Le paysage énergétique belge à l’horizon 2050 - Perspectives à politique inchangée](https://www.plan.be/uploaded/documents/201710270928090.For_Energy_2017_11531_F.pdf), French, last accessed on 29/09/2021
