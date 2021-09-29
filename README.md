@@ -68,10 +68,17 @@ WARNING: due to problems of agendas between the students of the applied science 
 - participation to collages [25%]
 
 ## References to start to dig the topic :)
-* https://plateforme-wallonne-giec.be/lettre/
-* [IPCC reports](https://www.ipcc.ch/)
-* [Rapports de The Shift Project](https://theshiftproject.org/category/publications/rapports/)
-* https://www.unep.org/interactive/emissions-gap-report/2020/#
-* https://www.iea.org/reports/net-zero-by-2050
-* [Energie et changement climatique, cours de J-M Jancovici aux Mines de Paris](https://youtube.com/playlist?list=PLMDQXkItOZ4LPwWJkVQf_PWnYHfC5xGFO)
 
+Climate Change:
+* IPCC - Intergovernmental Panel on Climate Change in a few key points - [Rapport du GIEC : rappel des points clés](https://www.carbone4.com/rapport-giec-points-cles), French, last accessed on 29/09/2021
+* IPCC sixth Assessment Report (AR6) - [Summary for Policymakers and Technical Summary](https://www.ipcc.ch/report/ar6/wg1/#SPM), English, last accessed on 29/09/2021
+* IPCC - [all reports](https://www.ipcc.ch/), English, last accessed on 29/09/2021
+* Le Réveilleur - [Comprendre le GIEC et ses rapports](https://youtu.be/C_UTlTiVQ_0), French, last accessed on 29/09/2021
+* Bon Pote - [Synthèse et analyse du nouveau rapport du GIEC](https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/), French, last accessed on 29/09/2021
+* La Plateforme wallonne pour le GIEC - [Lettres d'information](https://plateforme-wallonne-giec.be/lettre/), French, last accessed on 29/09/2021
+* Energie et changement climatique - [Cours de J-M Jancovici aux Mines de Paris](https://youtube.com/playlist?list=PLMDQXkItOZ4LPwWJkVQf_PWnYHfC5xGFO), French, last accessed on 29/09/2021
+
+Sustainability developpement:
+* The Shift Project is a French think tank advocating the shift to a post-carbon economy - [Reports on various topics linked to sustainability](https://theshiftproject.org/category/publications/rapports/), French, last accessed on 29/09/2021
+* Every year, the Emissions Gap Report signals the difference between where greenhouse emissions are predicted to be in 2030 and where they should be to avoid the worst impacts of climate change - [Emissions Gap Report 2020](https://www.unep.org/interactive/emissions-gap-report/2020/#), English, last accessed on 29/09/2021
+* The International Energy Agency (IEA) is committed to shaping a secure and sustainable energy future for all - [Net Zero by 2050 A Roadmap for the Global Energy Sector](https://www.iea.org/reports/net-zero-by-2050), English, last accessed on 29/09/2021
