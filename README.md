@@ -97,3 +97,8 @@ Carbon footprint:
 * Un résumé du troisième rapport annuel du Haut conseil pour le climat sur les émissions de gaz à effet de serre en France. [Rapport](https://www.hautconseilclimat.fr/wp-content/uploads/2021/09/HCC_Rapport_grand-public_2021.pdf?fbclid=IwAR1vRBqicxplgKrYoNllAqRPaB--KREyBb9Q6ZesD4k6S1Sf1uQTXO0RFfc), French, last accessed on 30/09/2021
 * Lettre numéro 9 de la plateforme Wallonne pour le GIEC. [Empreinte carbone : De quelles émissions sommes-nous responsables et comment les réduire ?](https://plateforme-wallonne-giec.be/Lettre9.pdf), French, last accessed on 30/09/2021
 * Federal Planning Bureau: Belgium’s Carbon Footprint Calculations based on a national accounts consistent global multi-regional input-output table. [Report](https://www.plan.be/uploaded/documents/201709290857260.WP_1710_11520.pdf), English, last accessed on 30/09/2021
+
+Energy return on investment:
+* Hall, Charles AS, Stephen Balogh, and David JR Murphy. "What is the minimum EROI that a sustainable society must have?." Energies 2.1 (2009): 25-47. [Article](https://www.mdpi.com/1996-1073/2/1/25), English, last accessed on 30/09/2021
+* Lambert, Jessica G., et al. "Energy, EROI and quality of life." Energy Policy 64 (2014): 153-167. [Article](https://doi.org/10.1016/j.enpol.2013.07.001), English, last accessed on 30/09/2021
+* Limpens, Gauthier, and Hervé Jeanmart. "Electricity storage needs for the energy transition: An EROI based analysis illustrated by the case of Belgium." Energy 152 (2018): 960-973. [Article](https://doi.org/10.1016/j.energy.2018.03.180), English, last accessed on 30/09/2021
