@@ -71,7 +71,7 @@ WARNING: due to problems of agendas between the students of the applied science 
 
 Climate Change:
 * IPCC - Intergovernmental Panel on Climate Change in a few key points. [Rapport du GIEC : rappel des points clés](https://www.carbone4.com/rapport-giec-points-cles), French, last accessed on 29/09/2021
-* IPCC - Intergovernmental Panel on Climate Change in a few key points. [Rapport du GIEC : rappel des points clés](https://www.carbone4.com/rapport-giec-points-cles), French, last accessed on 29/09/2021
+* IPCC - AR6 Climate Change 2021: The Physical Science Basis. [Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf), English, last accessed on 29/09/2021
 * Plateforme wallonne pour le GIEC, Lettre n°21 - Édition spéciale - Août 2021. [Aperçu du Résumé pour les décideurs](https://plateforme-wallonne-giec.be/Lettre21.pdf), French, last accessed on 05/10/2021
 * La Plateforme wallonne pour le GIEC, Lettre n°13 - avril 2019. ['Sauver le climat' : les bases](https://plateforme-wallonne-giec.be/Lettre13.pdf), French, last accessed on 05/10/2021
 * Un résumé audio du résumé aux décideurs du dernier rapport du GIEC en moins de 15 minutes ! [Podcast](https://soundcloud.com/user-641105405/resume-rapport-giec-2021), English, last accessed on 29/09/2021
