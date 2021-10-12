@@ -50,7 +50,7 @@ WARNING: due to problems of agendas between the students of the applied science 
 | To be defined |<br>Lecture 8: part 1 (presentation) [Sustainable ICT]() by an expert or [J. DUMAS] [1h00]<br>Lecture 8: part 2 (activity) analyze and discuss the report [Lean ICT](https://theshiftproject.org/en/article/lean-ict-our-new-report/) [J. DUMAS] [2h00]|
 | To be defined |<br>Lecture 9: part 1 (presentation) [You me & climate] [J. DUMAS] [1h00]<br>Lecture 9: part 2 (activity) Q&A, debate on the presentation [J. DUMAS] [1h00]<br>Lecture 9: part 3 (activity) analyze the report [Belgium Energy Outlook 2050](https://www.fabi.be/transition-energetique) or [IEA net zero emission](https://www.iea.org/reports/net-zero-by-2050) [J. DUMAS][2h00]|
 | To be defined |<br>Lecture 10: part 1 (presentation) [Energy systems modelling] [S. Quoilin] [2h00] <br>Lecture 10: part 2 (activity) TO BE DEFINED<br>|
-| To be defined |<br>Lecture 11: part 1 (presentation) [Energy management in residential houses] [B. Cornélusse][2h00]<br>Lecture 11: part 2 (activity) TO BE DEFINED<br>|
+| 23/11/2021 |<br>Lecture 11: part 1 (presentation) [Energy management in residential houses] [B. Cornélusse][2h00]<br>Lecture 11: part 2 (activity) TO BE DEFINED<br>|
 | To be defined |<br>Lecture 12: part 0 (feedbacks) +, -, add, remove, keep [J. DUMAS] [30 min]<br>|
 | To be defined |<br>Lecture 12 alternative1: part 1 (activity) Build your own collage of ENVT3065 - sustainability-and-challenges [J. DUMAS]<br>Lecture 12 alternative1: part 2 (activity) Peer grading of the collages [J. DUMAS]<br>|
 | To be defined |<br>Lecture 12 alternative2: part 1 (activity) work on a technical report in groups of 2-3 [J. DUMAS]<br>|
