@@ -74,7 +74,7 @@ Climate Change:
 * IPCC - AR6 Climate Change 2021: The Physical Science Basis. [Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf), English, last accessed on 29/09/2021
 * Plateforme wallonne pour le GIEC, Lettre n°21 - Édition spéciale - Août 2021. [Aperçu du Résumé pour les décideurs](https://plateforme-wallonne-giec.be/Lettre21.pdf), French, last accessed on 05/10/2021
 * La Plateforme wallonne pour le GIEC, Lettre n°13 - avril 2019. ['Sauver le climat' : les bases](https://plateforme-wallonne-giec.be/Lettre13.pdf), French, last accessed on 05/10/2021
-* Un résumé audio du résumé aux décideurs du dernier rapport du GIEC en moins de 15 minutes ! [Podcast](https://soundcloud.com/user-641105405/resume-rapport-giec-2021), English, last accessed on 29/09/2021
+* Understanding our climate and its future : a review of the IPCC AR6 Part1! [Podcast French](https://soundcloud.com/user-641105405/resume-rapport-giec-2021), [Podcast English](https://soundcloud.com/user-641105405/1-en-understanding-our-climate-and-its-future-a-review-of-the-ipcc-ar6-part1), last accessed on 14/10/2021
 * IPCC. [all reports](https://www.ipcc.ch/), English, last accessed on 29/09/2021
 * Le Réveilleur. [Comprendre le GIEC et ses rapports](https://youtu.be/C_UTlTiVQ_0), French, last accessed on 29/09/2021
 * Bon Pote. [Synthèse et analyse du nouveau rapport du GIEC](https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/), French, last accessed on 29/09/2021
