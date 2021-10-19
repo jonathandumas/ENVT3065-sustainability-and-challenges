@@ -80,6 +80,7 @@ Climate Change:
 * Bon Pote. [Synthèse et analyse du nouveau rapport du GIEC](https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/), French, last accessed on 29/09/2021
 * La Plateforme wallonne pour le GIEC. [Lettres d'information](https://plateforme-wallonne-giec.be/lettre/), French, last accessed on 29/09/2021
 * Energie et changement climatique. [Cours de J-M Jancovici aux Mines de Paris](https://youtube.com/playlist?list=PLMDQXkItOZ4LPwWJkVQf_PWnYHfC5xGFO), French, last accessed on 29/09/2021
+* [European Green Deal](https://ec.europa.eu/clima/eu-action/european-green-deal_en), English, last accessed on 19/10/2021
 
 Sustainability developpement:
 * The Shift Project is a French think tank advocating the shift to a post-carbon economy. [Reports on various topics linked to sustainability](https://theshiftproject.org/category/publications/rapports/), French, last accessed on 29/09/2021
@@ -100,6 +101,7 @@ Carbon footprint:
 * Lettre numéro 9 de la plateforme Wallonne pour le GIEC. [Empreinte carbone : De quelles émissions sommes-nous responsables et comment les réduire ?](https://plateforme-wallonne-giec.be/Lettre9.pdf), French, last accessed on 30/09/2021
 * Federal Planning Bureau: Belgium’s Carbon Footprint Calculations based on a national accounts consistent global multi-regional input-output table. [Report](https://www.plan.be/uploaded/documents/201709290857260.WP_1710_11520.pdf), English, last accessed on 30/09/2021
 * Le rapport ["Faire sa part"](https://www.carbone4.com/publication-faire-sa-part) de Carbone 4 qui met en perspective l’impact des entreprises et de l’état, French, last accessed on 18/10/2021
+* The EU ETS is a cornerstone of the EU's policy to combat climate change and its key tool for reducing greenhouse gas emissions cost-effectively. [EU Emissions Trading System (EU ETS)](https://ec.europa.eu/clima/eu-action/eu-emissions-trading-system-eu-ets_en), English, last accessed on 19/10/2021
 
 Energy return on investment:
 * Hall, Charles AS, Stephen Balogh, and David JR Murphy. "What is the minimum EROI that a sustainable society must have?." Energies 2.1 (2009): 25-47. [Article](https://www.mdpi.com/1996-1073/2/1/25), English, last accessed on 30/09/2021
