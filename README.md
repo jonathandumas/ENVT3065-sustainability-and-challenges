@@ -50,9 +50,8 @@ WARNING: due to problems of agendas between the students of the applied science 
 | 09/11 9 am B28 R.21 and 19/11 1:45 pm B28 R.21 [doodle](https://doodle.com/poll/hhnk8zycqzhy3gec?utm_source=poll&utm_medium=link)|<br>Lecture 8: (activity) analyze the reports of The Shift Project (a French think tank advocating the shift to a post-carbon economy) on sustainable ICT: [Deploying digital sobriety](https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/), [Lean ICT: towards digital sobriety](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/), and [Climate: the unsustainable use of online video](https://theshiftproject.org/article/climat-insoutenable-usage-video/) [J. DUMAS] [2h00]|
 | 23/11/2021 9 am B28 R.21 |<br>Lecture 9: [Energy management in residential houses] [B. Cornélusse][2h00]|
 | 30/11/2021 9 am B28 R.21 and 03/12/2021 1:45 pm B28 R.21|<br>Lecture 10: [Energy systems modelling] [S. Quoilin] [2h00]|
-| To be defined |<br>Lecture 11: part 1 present the second assingment <br>|
-| To be defined |<br>Lecture 11: part 2 (feedbacks) +, -, add, remove, keep [J. DUMAS] [30 min]<br>|
-| To be defined |<br>Lecture 12: present your final assingment <br>|
+| 07/12/2021 9 am B28 R.21 and 10/12/2021 1:45 pm B28 R.21 |<br>Lecture 11: part 1 present the second assingment <br>Lecture 11: part 2 (feedbacks) +, -, add, remove, keep [J. DUMAS] [30 min]<br>|
+| 14/12/2021 9 am B28 R.21 and 17/12/2021 1:45 pm B28 R.21 |<br>Lecture 12: present the final assingment <br>|
 
 ## Course map
 
