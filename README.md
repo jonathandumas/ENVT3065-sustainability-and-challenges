@@ -60,11 +60,30 @@ WARNING: due to problems of agendas between the students of the applied science 
 
 ## Evaluation
 
-- assignment 1: *Should we close Belgian nuclear power plants ... to open gas power plants?* Analyze and discuss pros and cons in a report (max 1 page) and present it (1 min of presentation). The presentations will be conducted during Lecture 7. [10%]
-- assignment 2: Watch the video [Fossil energies, issues for the society & economy](https://youtu.be/ExMUfQhmpHY) and make a summary with comments in a report (max 5 pages) in a group of 2 or 3 and present it (5 min of presentation). When submitting the report, specify the names of the student's group with the ID number on the first page. The presentation will be conducted in Lecture 9 or 10. [10%]
-- final assignment: pick a tool to teach sustainability (climate or digital fresk, myC02, a conference on the carbon footprint, ...) and analyze its pros and cons, ... Write a report (5 pages max) in a group of 2 or 3 and make a presentation of the key points (5-10 min). When submitting the report, specify the names of the student's group with the ID number on the first page.  The presentation will be conducted in the last Lecture of the course. [30%]
-- participation in activities [25%]
-- participation to collages [25%]
+**Assignment 1**: *Should we close Belgian nuclear power plants ... to open gas power plants?* [10%]
+
+Analyze and discuss pros and cons in a report (max 1 page) and present it (1 min of presentation). The presentations will be conducted during Lectures 7-8. 
+
+**Assignment 2**: *technical report analysis.* [20%]
+
+In a group of 2/3, select one of the following studies:
+ * [Future oil supply: what are the risks for Europe ?](https://theshiftproject.org/article/nouveau-rapport-approvisionnement-petrolier-europe/);
+ * [Flying in 2050: What aviation in a constrained world ?](https://theshiftproject.org/article/quelle-aviation-dans-un-monde-contraint-nouveau-rapport-du-shift/);
+ * [Environmental impact of digital: 5-year trends and 5G governance](https://theshiftproject.org/article/impact-environnemental-du-numerique-5g-nouvelle-etude-du-shift/).
+
+Write a report (10 pages max) that comments on the study (pros and cons of the methodology adopted, ...).
+Present your work (10 minutes max) in Lecture 11.
+*When submitting the report, specify the names of the student's group with the ID number on the first page.*
+
+**Final assignment**: *educational tool analysis.* [30%]
+
+In a group of 2/3, pick a tool to teach sustainability conducted in this course (climate or digital fresk, myC02, a conference on the carbon footprint, ...) and analyze its pros and cons.
+Write a report (15 pages max) with your analysis.
+Present your work (15 minutes max) in Lecture 12.
+*When submitting the report, specify the names of the student's group with the ID number on the first page.*
+
+
+**Participation to collages and activities** [30%]
 
 ## References to start to dig the topic :)
 
