@@ -70,7 +70,7 @@ In a group of 2/3, select one of the following studies:
  * [Flying in 2050: What aviation in a constrained world ?](https://theshiftproject.org/article/quelle-aviation-dans-un-monde-contraint-nouveau-rapport-du-shift/);
  * [Environmental impact of digital: 5-year trends and 5G governance](https://theshiftproject.org/article/impact-environnemental-du-numerique-5g-nouvelle-etude-du-shift/).
 
-Write a report (10 pages max) that comments on the study (pros and cons of the methodology adopted, ...).
+Write a report (10 pages max) that comments on the study: pros and cons of the methodology/data adopted/used, comments/discuss the main conclusions, are the conclusions justifies?, what are the key implications in terms of sustainability of this study?, is the topic relevant ...
 Present your work (10 minutes max) in Lecture 11.
 *When submitting the report, specify the names of the student's group with the ID number on the first page.*
 
