@@ -119,6 +119,8 @@ Carbon footprint:
 * Federal Planning Bureau: Belgium’s Carbon Footprint Calculations based on a national accounts consistent global multi-regional input-output table. [Report](https://www.plan.be/uploaded/documents/201709290857260.WP_1710_11520.pdf), English, last accessed on 30/09/2021
 * Le rapport ["Faire sa part"](https://www.carbone4.com/publication-faire-sa-part) de Carbone 4 qui met en perspective l’impact des entreprises et de l’état, French, last accessed on 18/10/2021
 * The EU ETS is a cornerstone of the EU's policy to combat climate change and its key tool for reducing greenhouse gas emissions cost-effectively. [EU Emissions Trading System (EU ETS)](https://ec.europa.eu/clima/eu-action/eu-emissions-trading-system-eu-ets_en), English, last accessed on 19/10/2021
+* Carbon footprint simulator developed by [Carbone4](https://www.carbone4.com/): [myC02](https://www.myco2.fr/fr/), French, last accessed on 17/12/2021
+* Open source carbon footprint simulator developed by ADEME: [simulator](https://datagir.ademe.fr/apps/nos-gestes-climat/), French, last accessed on 17/12/2021
 
 Energy return on investment:
 * Hall, Charles AS, Stephen Balogh, and David JR Murphy. "What is the minimum EROI that a sustainable society must have?." Energies 2.1 (2009): 25-47. [Article](https://www.mdpi.com/1996-1073/2/1/25), English, last accessed on 30/09/2021
